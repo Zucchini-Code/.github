@@ -1,1 +1,2 @@
-# Zucchini Prof
+# Zucchini Code Collective
+Cooking fresh code
